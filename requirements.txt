@@ -1,0 +1,7 @@
+Flask
+gunicorn
+azure-cognitiveservices-speech
+openai
+python-dotenv
+fillpdf
+azure-storage-blob

@@ -1,0 +1,8 @@
+# .gitignore
+.env
+__pycache__/
+*.pyc
+myproj_env/
+temp_audio.wav
+completed_police_report.pdf
+uploads
