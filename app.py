@@ -8,6 +8,8 @@ from main_script import (
     fill_pdf_form
 )
 
+# Behrouz: New Features to be added here as a function
+
 app = Flask(__name__)
 UPLOAD_FOLDER = "uploads"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
